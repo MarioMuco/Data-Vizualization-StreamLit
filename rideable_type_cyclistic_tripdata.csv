@@ -1,0 +1,4 @@
+rideable_type,num_trips,total_duration
+classic_bike,5909817,72850 days 18:24:10
+docked_bike,3449050,79989 days 04:03:26
+electric_bike,2988176,28058 days 09:43:38
