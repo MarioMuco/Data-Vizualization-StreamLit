@@ -1,4 +1,7 @@
-Data-Vizualization-StreamLit is a repository hosting a collection of data visualization projects built using Streamlit, a Python library for creating interactive web applications for data science and machine learning.
+Data visualization project built using Streamlit, a Python library for creating interactive web applications for data science and machine learning.
+
+![image](https://github.com/MarioMuco/Data-Vizualization-StreamLit/assets/45602326/dc094cdf-3b90-4ed0-a478-b3c55a939125)
+
 
 Features:
 <ul>
@@ -8,6 +11,3 @@ Features:
 <li><strong>Easy Deployment:</strong> Streamlit applications can be easily deployed to various hosting platforms, enabling seamless sharing and collaboration.</li>
 <li><strong>Customization:</strong> Users can customize visualization parameters and settings to tailor the visualization experience to their specific needs and preferences.</li>
 </ul>
-
-Credits:
-MarioMuco: Developer of the data visualization projects in the Data-Vizualization-StreamLit repository.
